@@ -1,0 +1,6 @@
+api:
+  bff:
+    path: /
+  services:
+#    url: http://172.21.151.126:30277
+    url: http://localhost:9999/awesome-media-backend-servie:8080
